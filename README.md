@@ -2,6 +2,7 @@
 Rock - Paper - Scissor - Lizard - Spock game which was mentioned in THE BIG BANG THEORY. This is developed in JavaScript.
 
 ### Game Play
+[Play Game](https://abieproject12-rockpaperscissorsbonus.netlify.app/)
 
 Hava a play !
 
